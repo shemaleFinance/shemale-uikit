@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.vikingswap.finance",
+        href: "https://exchange.taste.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.vikingswap.finance/#/pool",
+        href: "https://exchange.taste.finance/#/pool",
       },
     ],
   },
@@ -51,15 +51,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/TasteFinance/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://docs.taste.finance/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://tastefinance.medium.com/",
       },
     ],
   },
@@ -72,18 +72,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/VikingSwap",
+        href: "http://t.me/tastefinance",
       },
       {
         label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
+        href: "https://t.me/tastefinanceswapannouncements",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/taste_finance",
   },
 ];
 
