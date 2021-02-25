@@ -1993,11 +1993,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.taste.finance",
+                href: "https://exchange.shemale.finance",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.taste.finance/#/pool",
+                href: "https://exchange.shemale.finance/#/pool",
             },
         ],
     },
@@ -2034,15 +2034,15 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/TasteFinance/",
+                href: "https://github.com/ShemaleFinance/",
             },
             {
                 label: "Docs",
-                href: "https://docs.taste.finance/",
+                href: "https://docs.shemale.finance/",
             },
             {
                 label: "Blog",
-                href: "https://tastefinance.medium.com/",
+                href: "https://shemalefinance.medium.com/",
             },
         ],
     },
@@ -2054,18 +2054,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/tastefinance",
+                href: "http://t.me/shemalefinance",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/tastefinanceswapannouncements",
+                href: "https://t.me/shemalefinanceswapannouncements",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/taste_finance",
+        href: "https://twitter.com/shemale_finance",
     },
 ];
 var MENU_HEIGHT = 64;
